@@ -1,4 +1,4 @@
-Mini-Max Sum
+//Mini-Max Sum//
 
 #include <stdio.h>
 

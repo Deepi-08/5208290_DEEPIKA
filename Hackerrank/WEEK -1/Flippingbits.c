@@ -1,4 +1,4 @@
-                                                \\ Flippingbits \\
+                                                //Flippingbits //
 #include <stdio.h>
 
 int main() {
